@@ -148,7 +148,7 @@
 
 ### 8. Демонстрация реализации (личная страница)
 
-https://vivatgeorge.github.io/vivatgeorge/#!/topics/1
+https://design2020.github.io/Ivanov-page
 ### 9. Подготовка к интерпретации построенных моделей
 
 **9.1 Используемые паттерны проектирования и разработки [✋](https://github.com/stankin/design-part-2/wiki/sem2):**
