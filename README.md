@@ -193,7 +193,7 @@ https://design2020.github.io/Ivanov-page
 
 Выявление процессов, нуждающихся в повышении качества.
 
-![1](https://github.com/vivatgeorge/nikitin/blob/main/1k.jpg)
+![1](https://artyom-ivanov627.github.io/Ivanov-page)
 
 Способ получения: извлечение из диаграмм IDEF0 и DFD.
 
