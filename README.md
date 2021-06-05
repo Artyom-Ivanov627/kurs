@@ -212,15 +212,15 @@ https://vivatgeorge.github.io/vivatgeorge/#!/topics/1
 
 Расчет сложности разработки методом FPA IFPUG:
 
-![3](https://github.com/vivatgeorge/nikitin/blob/main/2k.jpg)
+![3]()
 
 Расчет трудозатрат на разработку «с нуля» методом COCOMO II:
 
-![4](https://github.com/vivatgeorge/nikitin/blob/main/3k.jpg)
+![4]()
 
 **10.5 План-факт сравнение для затрат на реализацию: [💻](https://docs.google.com/spreadsheets/d/11KghKnPycU-EtbHJ3dKK5FQjPntsd9ZQ9LVSzg9Ou5E/edit#gid=1983994942)**
 
-![4](https://github.com/vivatgeorge/nikitin/blob/main/V6.jpg)
+![4]()
 
 **Из расчета:**
 
