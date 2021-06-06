@@ -135,14 +135,14 @@
 
 * **Диаграмма UML Sequence:**
 * 
-![p6]()
+![p6](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/uml%203.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
 * **Описываемый объект:** Струкрутра программных средств системы
 
 * **Диаграмма UML Component:**
-![p7]()
+![p7](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/uml%204.png)
 
 ### 8. Демонстрация реализации (личная страница)
 
