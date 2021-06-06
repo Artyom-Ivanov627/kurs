@@ -192,7 +192,7 @@ https://artyom-ivanov627.github.io/Ivanov-page/#!/topics
 
 Выявление процессов, нуждающихся в повышении качества.
 
-![1](https://artyom-ivanov627.github.io/Ivanov-page)
+![1](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/Proc.png)
 
 Способ получения: извлечение из диаграмм IDEF0 и DFD.
 
@@ -211,15 +211,15 @@ https://artyom-ivanov627.github.io/Ivanov-page/#!/topics
 
 Расчет сложности разработки методом FPA IFPUG:
 
-![3]()
+![3](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/FPA%20IFPUG.jpg)
 
 Расчет трудозатрат на разработку «с нуля» методом COCOMO II:
 
-![4]()
+![4](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/COCOMO%20II.jpg)
 
 **10.5 План-факт сравнение для затрат на реализацию: [💻](https://docs.google.com/spreadsheets/d/11KghKnPycU-EtbHJ3dKK5FQjPntsd9ZQ9LVSzg9Ou5E/edit#gid=1983994942)**
 
-![4]()
+![4](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/Plan.jpg)
 
 **Из расчета:**
 
