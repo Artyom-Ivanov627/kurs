@@ -25,23 +25,23 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0]()
+![A-0](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/model%201.png)
 
 * A0 (диаграмма верхнего уровня)
 
-![A0]()
+![A0](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/model%202.png)
 
 * A2 (декомпозиция процесса/процессов внутренней среды)
 
-![A2]()
+![A2](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/model%203.png)
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
-![A3]()
+![A3](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/model%204.png)
 
 * A4 (декомпозиция процесса/процессов внутренней среды)
 
-![A4]()
+![A4](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/model%205.png)
 
 
 
@@ -57,11 +57,11 @@
 
 * A32 Автоматизация процесса А32
 
-![A32]()
+![A32](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/model%206.png)
 
 * A33 Автоматизация процесса А33
 
-![A33]()
+![A33](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/model%207.png)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
