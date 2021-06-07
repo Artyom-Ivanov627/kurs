@@ -65,7 +65,7 @@
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
 Диаграмма UML Use Case
-![p4](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/uml/uml%201.png)
+![p4](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/uml/uml%207.png)
 
 **4.1 Идентификатор прецедента:** А33
 
@@ -133,7 +133,7 @@
 
 * **Диаграмма UML Sequence:**
 
-![p6](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/uml/uml%203.png)
+![p6](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/uml/uml%206.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
