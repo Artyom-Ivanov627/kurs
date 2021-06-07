@@ -216,7 +216,7 @@ https://artyom-ivanov627.github.io/Ivanov-page/#!/topics
 
 **10.5 План-факт сравнение для затрат на реализацию: [💻](https://docs.google.com/spreadsheets/d/11KghKnPycU-EtbHJ3dKK5FQjPntsd9ZQ9LVSzg9Ou5E/edit#gid=1983994942)**
 
-![4](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/Plan.jpg)
+![4](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/plan.jpg)
 
 **Из расчета:**
 
