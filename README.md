@@ -141,7 +141,7 @@
 
 * **Диаграмма UML Component:**
 
-![p7](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/uml/uml%204.png)
+![p7](https://github.com/Artyom-Ivanov627/kurs/blob/main/img/uml/uml%205.png)
 
 ### 8. Демонстрация реализации (личная страница)
 
